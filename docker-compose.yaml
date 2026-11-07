@@ -1,0 +1,12 @@
+services:
+  svelte-blog:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: svelte-blog
+
+    ports:
+      - "8080:80"
+
+    restart: unless-stopped

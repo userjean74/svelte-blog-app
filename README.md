@@ -1,6 +1,3 @@
-Here is a complete, professional, GitHub-ready `README.md` tailored to your actual Svelte Blog project structure, including Docker configuration, Nginx, Svelte 5, reusable components, and local storage.
-
-Writing
 
 # 📝 Svelte Blog
 
@@ -469,4 +466,3 @@ If you find this project useful, please consider giving the repository a ⭐ sta
 4. Verify that the Docker commands and port numbers match your actual `Dockerfile` and `docker-compose.yml`.
 5. Add screenshots of your application to make the repository more attractive.
 
-One important recommendation: Since your project already includes Docker, Docker Compose, and Nginx, consider adding a screenshot showing the running application and a short demonstration GIF to your GitHub README. This will make the project look more complete and professional.

@@ -1,6 +1,3 @@
-Here is a complete, professionally structured `README.md` for your Svelte 5 + Vite Blog Application. It includes project features, prerequisites, installation, folder structure, local development, Docker deployment, useful commands, and production considerations.
-
-Writing
 
 # SvelteBlog — Complete Svelte 5 + Vite Blog Application
 

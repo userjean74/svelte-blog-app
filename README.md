@@ -5,7 +5,8 @@ A modern, responsive blog application built with **Svelte 5, JavaScript, and Vit
 
 It features reusable Svelte components, centralized state management with Svelte stores, and browser-based data persistence using `localStorage`.
 
-The project also includes **Docker and Nginx configuration** for containerized deployment.
+The project also provides optional **Docker and Nginx configuration** for containerized deployment.
+
 
 ---
 
